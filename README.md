@@ -1,5 +1,5 @@
 ## Ivi selenium tests
-A few examples of selenium tests
+A few examples of Selenium tests
 
 Project is written using Java 11, TestNG
 
