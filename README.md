@@ -1,5 +1,5 @@
 ## Ivi selenium tests
-A few examples of Selenium tests (IVI interview task)
+Examples of Selenium tests (IVI interview task)
 
 Project is written using Java 11, TestNG
 
